@@ -1,5 +1,5 @@
 # Odin
-## Odin uses the Hydra Machine Abstraction that computes NLP Predictions
+## A General Purpose, Task Oriented, NLP Statistical Machine exposed to Hydra. It replaces Moira Machines.
 
 ![norse-god-odin-woden-granger](https://user-images.githubusercontent.com/107733608/174719958-e215e426-a662-41d0-8bd6-491f4970d181.jpg)
 
